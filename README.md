@@ -1,1 +1,3 @@
-# dino-jump-python
+# Dino Jump
+
+![alt text](/assets/screenshot.png)
